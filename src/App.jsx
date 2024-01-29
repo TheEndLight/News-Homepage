@@ -1,7 +1,7 @@
-import { ArticleContainer } from './componets/ArticleContainer';
-import { Header } from './componets/header';
-import { MainArticle } from './componets/MainArticle';
-import { NewContainer } from './componets/NewContainer';
+import { ArticleContainer } from './componets/ArticleContainer.jsx';
+import { Header } from './componets/Header.jsx';
+import { MainArticle } from './componets/MainArticle.jsx';
+import { NewContainer } from './componets/NewContainer.jsx';
 
 function App() {
   return (
